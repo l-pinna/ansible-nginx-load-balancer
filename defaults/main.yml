@@ -1,7 +1,7 @@
 ---
 # defaults file for ansible-nginx-load-balancer
 
-load_module_section: ''
+load_module_section: ""
 ## load_module_section: 'load_module /usr/lib64/nginx/modules/ngx_stream_module.so;'
 
 # NGINX load balancer configs
